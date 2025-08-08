@@ -3,11 +3,11 @@
 # <p align=center> ⁺₊⋆ Welcome to my GitHub! ⁺₊⋆ 
 
 ## ⁺₊⋆ About Me ⁺₊⋆
-𖤓 third-year college student @ Stevens Institute of Technology <br/>
-𖤓 CS major + data visualization minor
-𖤓 concentrating in AI/ML, data analysis, and web dev
-𖤓 still discovering what industry I want to work in! Open for anything 
-𖤓 looking for an internship next summer
+𖤓 third-year college student @ Stevens Institute of Technology<br/>
+𖤓 CS major + data visualization minor<br/>
+𖤓 concentrating in AI/ML, data analysis, and web dev<br/>
+𖤓 still discovering what industry I want to work in! Open for anything<br/> 
+𖤓 looking for an internship next summer<br/>
 
 <!--
 **angeleanne-enriquez/angeleanne-enriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
