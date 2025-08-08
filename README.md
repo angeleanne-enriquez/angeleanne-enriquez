@@ -1,6 +1,6 @@
 ![black and white image of new york city](https://github.com/angeleanne-enriquez/angeleanne-enriquez/blob/main/black-white-city.jpg)
 
-# ⁺₊⋆ Welcome to my GitHub! ⁺₊⋆
+# <center> ⁺₊⋆ Welcome to my GitHub! ⁺₊⋆ </center>
 
 <!--
 **angeleanne-enriquez/angeleanne-enriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
