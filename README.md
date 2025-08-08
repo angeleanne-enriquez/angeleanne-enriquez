@@ -1,3 +1,5 @@
+![black and white image of new york city](https://github.com/angeleanne-enriquez/angeleanne-enriquez/blob/main/black-white-city.jpg)
+
 ## Hi there 👋
 
 <!--
