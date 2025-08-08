@@ -10,7 +10,7 @@
 𖤓 looking for an internship next summer<br/>
 
 ## ⁺₊⋆ My Tech Stack ⁺₊⋆
-![my tech stack](https://github.com/angeleanne-enriquez/angeleanne-enriquez/blob/main/tech-stack.jpg)
+![my tech stack](https://github.com/angeleanne-enriquez/angeleanne-enriquez/blob/main/tech%20stack.png)
 <!--
 **angeleanne-enriquez/angeleanne-enriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
