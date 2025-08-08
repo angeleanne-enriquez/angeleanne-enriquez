@@ -11,6 +11,8 @@
 
 ## ⁺₊⋆ My Tech Stack ⁺₊⋆
 ![my tech stack](https://github.com/angeleanne-enriquez/angeleanne-enriquez/blob/main/tech%20stack.png)
+
+## ⁺₊⋆ Featured Repositories ⁺₊⋆
 <!--
 **angeleanne-enriquez/angeleanne-enriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
