@@ -13,17 +13,14 @@
 ![my tech stack](https://github.com/angeleanne-enriquez/angeleanne-enriquez/blob/main/tech%20stack.png)
 
 ## ⁺₊⋆ Featured Repositories ⁺₊⋆
-<!--
-**angeleanne-enriquez/angeleanne-enriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𖤓 [AI Country Happiness Predictor](https://github.com/angeleanne-enriquez/BTTAI-CountryHappinessPredictor)
+> Break Through Tech AI Final Project - Summer 2025
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Predicting a country's happiness based on their citizens' perceptions of their government using AI modeling in Python.
+
+𖤓 [AI Reading Discussion Assistant](https://github.com/angeleanne-enriquez/SIT-AIReadingDiscussionAssistant)
+> Stevens Pinnacle Research Program - Summer 2024
+
+
+Generating text summaries, reading questions, and professional reading-based discussions using Claude AI in Python.
